@@ -1,4 +1,4 @@
-# Hosting-Site-AWS
+# Hosting a Static Site on AWS
 
 A quick and easy way to get familiar with AWS and static site hosting. AWS (Amazon Web Services) can be complicated to navigate and understand. In this repository you'll find all the necessary files and instructions to create a fully functioning static site on AWS!
 
